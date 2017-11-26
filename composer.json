@@ -1,5 +1,8 @@
 {
-    "name": "symfony/console",
+    "name": "symfony@iglue/console",
+    "replace": {
+        "symfony/console": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony Console Component",
     "keywords": [],
